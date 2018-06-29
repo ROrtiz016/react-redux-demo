@@ -1,0 +1,5 @@
+.users-component {
+  background: pink;
+  height: calc(100vh - 100px);
+  padding: 2rem;
+}

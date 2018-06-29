@@ -1,0 +1,12 @@
+.btn {
+  padding: 0.5rem 1rem;
+  background: linear-gradient(#eee, #f1f1f1);
+  border-radius: 8px;
+  border: 1px solid #333;
+  font-size: 1rem;
+  color: #222;
+}
+
+.btn:hover {
+  background: linear-gradient(#ddd, #ccc);
+}
